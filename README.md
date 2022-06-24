@@ -9,8 +9,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-
-
-
-
+<!-- header -->
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Franz%20Cho&fontSize=90" />
+
+<div align=center>
+<!--소개-->
+<h3>:raised_hands: Introduction </h3>
+안녕하세요! 공부중인 신입개발자입니다.
+<br/><br/>
+<!--기술스택-->
+   <h3>💻Skill </h3>
