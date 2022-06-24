@@ -29,4 +29,5 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
 #
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FranzCho&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranzCho&layout=compact&theme=tokyonight)
