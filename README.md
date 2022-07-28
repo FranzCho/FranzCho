@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <!--소개-->
 <h3> Introduction </h3>
 안녕하세요! 공부중인 신입개발자입니다.<br>
-무엇이든 배우고싶은 조성민입니다.
 <br/><br/>
 
 #
