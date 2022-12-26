@@ -12,12 +12,7 @@ Here are some ideas to get you started:
 <!-- header -->
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Franz%20Cho&fontSize=90" />
 
-#
-<div align=center>
-<!--소개-->
-<h3> Introduction </h3>
-안녕하세요! 공부중인 신입개발자입니다.<br>
-<br/><br/>
+
 
 #
 <!--기술스택-->
